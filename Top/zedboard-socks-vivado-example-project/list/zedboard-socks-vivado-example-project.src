@@ -1,0 +1,5 @@
+# Block design
+lib_zedboard-socks-vivado-example-project/bd/system/system.bd
+
+# Wrapper
+lib_zedboard-socks-vivado-example-project/source/system_wrapper.v top=system_wrapper
